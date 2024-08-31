@@ -7,8 +7,8 @@ Discover a comprehensive array of projects meticulously crafted by v38armageddon
 Explore a diverse projects, featuring significant projects like the Vincent OS App, MediaBrowser, and the efficient WebSM, as well as smaller yet impactful creations!
 
 Our biggest projects:
-- [Vincent OS App](https://github.com/v38armageddon/Vincent-OS-App)
 - [Vincent OS](https://github.com/Vincent-OS)
+- [Vincent OS App](https://github.com/v38armageddon/Vincent-OS-App)
 - [WebSM](https://github.com/v38armageddon/WebSM)
 - [MediaBrowser](https://github.com/v38armageddon/MediaBrowser)
 
